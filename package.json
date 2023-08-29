@@ -24,6 +24,7 @@
   "homepage": "https://github.com/EddieE79/nft-storage-upload#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
+    "files-from-path": "^1.0.0",
     "mime": "^3.0.0",
     "nft.storage": "^7.1.1"
   }
